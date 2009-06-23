@@ -1,6 +1,6 @@
-Curiosity killing cats ... scrape info from http://ghostery.com/apps/* via drakma, cl-ppcre with the help of Google.
+Curiosity killing cats ... scrape info from http://ghostery.com/apps/* via drakma, cl-ppcre with the help of Google, or a list gleaned from the ghostery sources.
 
-Makes a report like so: 
+There is a example report in report.txt, but it makes a report like this:
 
 NIL  http://www.audiencescience.com/          Revenue Science      http://www.ghostery.com/apps/revenue_science
 NIL  http://haveamint.com/                    Mint                 http://www.ghostery.com/apps/mint

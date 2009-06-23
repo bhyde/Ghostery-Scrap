@@ -1,0 +1,189 @@
+200  http://www.lookery.com                   Lookery              http://www.ghostery.com/apps/Lookery
+800,000 http://www.google.com/analytics/         Google Analytics     http://www.ghostery.com/apps/Google_Analytics
+10,000 http://www.mybloglog.com/                MyBlogLog            http://www.ghostery.com/apps/MyBlogLog
+40,000 http://www.quantcast.com/                Quantcast            http://www.ghostery.com/apps/Quantcast
+1,000 http://web.analytics.yahoo.com/          IndexTools           http://www.ghostery.com/apps/IndexTools
+20,000 http://www.sitemeter.com/                SiteMeter            http://www.ghostery.com/apps/SiteMeter
+1,000 http://www.lijit.com/                    Lijit                http://www.ghostery.com/apps/Lijit
+20,000 http://www.omniture.com/en/              Omniture             http://www.ghostery.com/apps/Omniture
+7,000 http://crazyegg.com/                     Crazy Egg            http://www.ghostery.com/apps/Crazy_Egg
+4,000 http://www.snap.com/                     Snap                 http://www.ghostery.com/apps/Snap
+70,000 http://www.statcounter.com/              Statcounter          http://www.ghostery.com/apps/Statcounter
+4,000 http://piwik.org/                        Piwik Analytics      http://www.ghostery.com/apps/Piwik_Analytics
+4,000 http://haveamint.com/                    Mint                 http://www.ghostery.com/apps/Mint
+NIL  NIL                                      NIL                  http://www.ghostery.com/apps/Facebook_Beacon
+NIL  http://www.typepad.com/features/statistics.html Typepad Stats        http://www.ghostery.com/apps/Typepad_Stats
+20,000 http://wordpress.org/extend/plugins/stats/ Wordpress Stats      http://www.ghostery.com/apps/Wordpress_Stats
+700  http://www.hubspot.com/                  HubSpot              http://www.ghostery.com/apps/HubSpot
+600  http://web.analytics.yahoo.com/          Yahoo Analytics      http://www.ghostery.com/apps/Yahoo_Analytics
+200  http://www.orangesoda.com/               OrangeSoda           http://www.ghostery.com/apps/OrangeSoda
+NIL  http://www.engagd.com/                   Engagd               http://www.ghostery.com/apps/Engagd
+NIL  NIL                                      NIL                  http://www.ghostery.com/apps/Nugg.Ad
+100  http://www.crowdscience.com/             Crowd Science        http://www.ghostery.com/apps/Crowd_Science
+200  http://www.federatedmedia.net/           Federated Media      http://www.ghostery.com/apps/Federated_Media
+30,000 http://www.openx.org/                    OpenAds              http://www.ghostery.com/apps/OpenAds
+1,000 http://aws.amazon.com/associates/        Amazon Associates    http://www.ghostery.com/apps/Amazon_Associates
+7,000 http://www.feedburner.com                FeedBurner           http://www.ghostery.com/apps/FeedBurner
+NIL  http://www.clustrmaps.com/               ClustrMaps           http://www.ghostery.com/apps/ClustrMaps
+6,000 http://feedjit.com/                      Feedjit              http://www.ghostery.com/apps/Feedjit
+300,000 https://www.google.com/adsense/          Google Adsense       http://www.ghostery.com/apps/Google_Adsense
+3,000 http://www.hittail.com/                  HitTail              http://www.ghostery.com/apps/HitTail
+500  http://friendfeed.com/                   FriendFeed           http://www.ghostery.com/apps/FriendFeed
+7,000 http://www.woopra.com/                   Woopra               http://www.ghostery.com/apps/Woopra
+100  http://www.scribefire.com/quickads_beta  ScribeFire QuickAds  http://www.ghostery.com/apps/ScribeFire_QuickAds
+9,000 http://www.nielsen-online.com            NetRatings SiteCensus http://www.ghostery.com/apps/NetRatings_SiteCensus
+200,000 http://www.doubleclick.com               Doubleclick          http://www.ghostery.com/apps/Doubleclick
+4,000 http://www.tacoda.com/                   Tacoda               http://www.ghostery.com/apps/Tacoda
+6,000 http://www.rightmedia.com/               RightMedia           http://www.ghostery.com/apps/RightMedia
+5,000 http://www.dynamiclogic.com/             Dynamic Logic        http://www.ghostery.com/apps/Dynamic_Logic
+6,000 http://www.webtrends.com/                WebTrends            http://www.ghostery.com/apps/WebTrends
+NIL  http://www.xiti.com/                     XiTi                 http://www.ghostery.com/apps/XiTi
+10,000 http://sharethis.com/                    ShareThis            http://www.ghostery.com/apps/ShareThis
+300  http://seesmic.com/                      Seesmic              http://www.ghostery.com/apps/Seesmic
+8,000 http://www.addtoany.com/                 AddtoAny             http://www.ghostery.com/apps/AddtoAny
+60,000 http://www.addthis.com/                  AddThis              http://www.ghostery.com/apps/AddThis
+10,000 http://www.audiencescience.com/          Revenue Science      http://www.ghostery.com/apps/Revenue_Science
+6,000 http://www.pointroll.com/                PointRoll            http://www.ghostery.com/apps/PointRoll
+600  http://chartbeat.com/                    ChartBeat            http://www.ghostery.com/apps/ChartBeat
+5,000 http://getclicky.com/63825               Clicky               http://www.ghostery.com/apps/Clicky
+1,000 http://uservoice.com/                    UserVoice            http://www.ghostery.com/apps/UserVoice
+2,000 http://rubiconproject.com/               Rubicon              http://www.ghostery.com/apps/Rubicon
+100  http://www.conversionruler.com/          ConversionRuler      http://www.ghostery.com/apps/ConversionRuler
+1,000 http://www.salesforce.com/               Salesforce           http://www.ghostery.com/apps/Salesforce
+800  http://www.sphere.com/                   Sphere               http://www.ghostery.com/apps/Sphere
+500  http://www.criteo.com/                   Criteo               http://www.ghostery.com/apps/Criteo
+600  http://advertiser.cubics.com/            Cubics               http://www.ghostery.com/apps/Cubics
+3,000 http://www.infolinks.com/                InfoLinks            http://www.ghostery.com/apps/InfoLinks
+70   http://www.statisfy.com/                 Statisfy             http://www.ghostery.com/apps/Statisfy
+1,000 https://adcenter.microsoft.com/          MSN Ads              http://www.ghostery.com/apps/MSN_Ads
+1,000 http://www.outbrain.com/                 Outbrain             http://www.ghostery.com/apps/Outbrain
+8,000 http://www.google.com/friendconnect/     Google FriendConnect http://www.ghostery.com/apps/Google_FriendConnect
+4,000 http://www.specificmedia.com/            SpecificClick        http://www.ghostery.com/apps/SpecificClick
+10,000 https://adcenter.microsoft.com/          Microsoft Atlas      http://www.ghostery.com/apps/Microsoft_Atlas
+90   http://skribit.com/                      Skribit              http://www.ghostery.com/apps/Skribit
+40,000 http://www.google.com/coop/cse/          Google Custom Search Engine http://www.ghostery.com/apps/Google_Custom_Search_Engine
+NIL  http://code.google.com/apis/ajaxsearch/  Google AJAX Search API http://www.ghostery.com/apps/Google_AJAX_Search_API
+7,000 http://www.kontera.com/                  Kontera ContentLink  http://www.ghostery.com/apps/Kontera_ContentLink
+10,000 http://www.adbrite.com/                  AdBrite              http://www.ghostery.com/apps/AdBrite
+500  http://adultadworld.com/                 AdultAdWorld         http://www.ghostery.com/apps/AdultAdWorld
+100  http://www.gunggo.com/                   Gunggo               http://www.ghostery.com/apps/Gunggo
+100  http://www.doublepimp.com/               DoublePimp           http://www.ghostery.com/apps/DoublePimp
+300  http://www.sexinyourcity.com/            SexInYourCity        http://www.ghostery.com/apps/SexInYourCity
+3,000 http://clicksor.com/                     Clicksor             http://www.ghostery.com/apps/Clicksor
+100  http://website.grader.com/               HubSpot WebsiteGrader http://www.ghostery.com/apps/HubSpot_WebsiteGrader
+900  http://www.quigo.com                     Quigo AdSonar        http://www.ghostery.com/apps/Quigo_AdSonar
+1,000 http://www.blogcatalog.com/              BlogCatalog          http://www.ghostery.com/apps/BlogCatalog
+5,000 http://technorati.com/widgets/blogwidgets Technorati Widget    http://www.ghostery.com/apps/Technorati_Widget
+8,000 http://www.alexa.com/                    Alexa Traffic Rank   http://www.ghostery.com/apps/Alexa_Traffic_Rank
+3,000 http://www.tribalfusion.com/             Tribal Fusion        http://www.ghostery.com/apps/Tribal_Fusion
+3,000 http://disqus.com/                       Disqus               http://www.ghostery.com/apps/Disqus
+500  http://www.sixapart.com/advertising/     Six Apart Advertising http://www.ghostery.com/apps/Six_Apart_Advertising
+600  http://www.blogherads.com/               BlogHer Ads          http://www.ghostery.com/apps/BlogHer_Ads
+100  http://www.platform-a.com/               Advertising.com      http://www.ghostery.com/apps/Advertising.com
+NIL  https://www.leadback.com/                LeadBack             http://www.ghostery.com/apps/LeadBack
+10,000 http://digg.com/tools/integrate          DiggThis             http://www.ghostery.com/apps/DiggThis
+100  http://www.doubleclick.com/products/richmedia/spotlightforrichmedia.aspx DoubleClick Spotlight http://www.ghostery.com/apps/DoubleClick_Spotlight
+400  http://searchmarketing.yahoo.com         Yahoo Overture       http://www.ghostery.com/apps/Yahoo_Overture
+1,000 http://intensedebate.com/                Intense Debate       http://www.ghostery.com/apps/Intense_Debate
+4,000 http://developers.facebook.com/connect.php Facebook Connect     http://www.ghostery.com/apps/Facebook_Connect
+90   http://www.btbuckets.com/                BTBuckets            http://www.ghostery.com/apps/BTBuckets
+50   http://gumgum.com/                       gumgum               http://www.ghostery.com/apps/gumgum
+300  http://yieldbuild.com/                   YieldBuild           http://www.ghostery.com/apps/YieldBuild
+600  http://buzz.yahoo.com/                   Yahoo Buzz           http://www.ghostery.com/apps/Yahoo_Buzz
+100  http://www.baynote.com/                  Baynote Observer     http://www.ghostery.com/apps/Baynote_Observer
+100  http://triggit.com/                      TriggIt              http://www.ghostery.com/apps/TriggIt
+300  http://digg.com/apple/Digg_Widget        Digg Widget          http://www.ghostery.com/apps/Digg_Widget
+1,000 http://www.blogads.com/                  Blogads              http://www.ghostery.com/apps/Blogads
+4,000 http://www.zedo.com/                     Zedo                 http://www.ghostery.com/apps/Zedo
+4,000 http://www.vibrantmedia.com/             Vibrant Ads          http://www.ghostery.com/apps/Vibrant_Ads
+800  http://getsatisfaction.com/              GetSatisfaction      http://www.ghostery.com/apps/GetSatisfaction
+3,000 http://www.adify.com/                    Adify                http://www.ghostery.com/apps/Adify
+9,000 http://www.google.com                    Google Widgets       http://www.ghostery.com/apps/Google_Widgets
+5,000 http://www.liveperson.com/               LivePerson           http://www.ghostery.com/apps/LivePerson
+800  http://www.kampyle.com/                  Kampyle              http://www.ghostery.com/apps/Kampyle
+2,000 http://www.clicktale.com/                ClickTale            http://www.ghostery.com/apps/ClickTale
+600  http://www.lotame.com/                   Lotame               http://www.ghostery.com/apps/Lotame
+6,000 http://www.cpxinteractive.com/           CPX Interactive      http://www.ghostery.com/apps/CPX_Interactive
+NIL  http://www.lynchpin.com/                 Lynchpin Analytics   http://www.ghostery.com/apps/Lynchpin_Analytics
+60   http://www.trovus.co.uk/                 Trovus Revelations   http://www.ghostery.com/apps/Trovus_Revelations
+400  http://www.omniture.com/en               Omniture TouchClarity http://www.ghostery.com/apps/Omniture_TouchClarity
+2,000 http://www.insightexpress.com/           InsightExpress       http://www.ghostery.com/apps/InsightExpress
+100  http://www.kanoodle.com/                 Kanoodle             http://www.ghostery.com/apps/Kanoodle
+NIL  http://www.bluekai.com/                  BlueKai              http://www.ghostery.com/apps/BlueKai
+10   http://www.loomia.com/                   Loomia               http://www.ghostery.com/apps/Loomia
+NIL  http://www.othersonline.com/             Others Online        http://www.ghostery.com/apps/Others_Online
+500  http://twittercounter.com/               TwitterCounter       http://www.ghostery.com/apps/TwitterCounter
+NIL  http://www.thummit.com/                  Thummit              http://www.ghostery.com/apps/Thummit
+10   http://www.dotomi.com/                   Dotomi               http://www.ghostery.com/apps/Dotomi
+6,000 http://chitika.com/                      Chitika              http://www.ghostery.com/apps/Chitika
+300  http://spot200.com/                      Spot200              http://www.ghostery.com/apps/Spot200
+2,000 http://www.hitslink.com/                 HitsLink             http://www.ghostery.com/apps/HitsLink
+700  http://www.w3counter.com/                W3Counter            http://www.ghostery.com/apps/W3Counter
+2,000 http://awstats.sourceforge.net/          AWStats              http://www.ghostery.com/apps/AWStats
+NIL  http://www.onestat.com/                  OneStat              http://www.ghostery.com/apps/OneStat
+10,000 http://twitter.com/widgets               Twitter Badge        http://www.ghostery.com/apps/Twitter_Badge
+10   http://www.duckduckgo.com/               DuckDuckGo           http://www.ghostery.com/apps/DuckDuckGo
+80   http://www.bluemetrix.ie/                Bluemetrix           http://www.ghostery.com/apps/Bluemetrix
+2,000 http://www.reinvigorate.net/             Reinvigorate         http://www.ghostery.com/apps/Reinvigorate
+300  http://www.postrank.com/                 PostRank             http://www.ghostery.com/apps/PostRank
+100  http://www.collarity.com/                Collarity            http://www.ghostery.com/apps/Collarity
+100  http://www.adaptiveblue.com/smartlinks.html AdaptiveBlue SmartLinks http://www.ghostery.com/apps/AdaptiveBlue_SmartLinks
+NIL  http://www.tumblr.com/                   Tumblr               http://www.ghostery.com/apps/Tumblr
+NIL  http://blogrollr.com/                    BlogRollr            http://www.ghostery.com/apps/BlogRollr
+10,000 http://www.casalemedia.com/              Casale Media         http://www.ghostery.com/apps/Casale_Media
+500  http://blogcounter.com/                  BlogCounter          http://www.ghostery.com/apps/BlogCounter
+1,000 http://www.widgebucks.com/               WidgetBucks          http://www.ghostery.com/apps/WidgetBucks
+NIL  http://www.nooked.com/                   Nooked               http://www.ghostery.com/apps/Nooked
+9,000 http://www.mediaplex.com/                ValueClick Mediaplex http://www.ghostery.com/apps/ValueClick_Mediaplex
+2,000 http://js-kit.com/                       JS-Kit               http://www.ghostery.com/apps/JS-Kit
+NIL  http://bzzster.com/                      Bzzster              http://www.ghostery.com/apps/Bzzster
+1,000 http://www.leadlander.com/               LeadLander           http://www.ghostery.com/apps/LeadLander
+3,000 http://www.burstmedia.com/               Burst Media          http://www.ghostery.com/apps/Burst_Media
+100  http://www.zango.com/                    Zango                http://www.ghostery.com/apps/Zango
+NIL  http://www.adknowledge.com/              Adknowledge          http://www.ghostery.com/apps/Adknowledge
+NIL  http://www.nebuad.com/                   NebuAd               http://www.ghostery.com/apps/NebuAd
+400  http://www.media6degrees.com/            Media6 Degrees       http://www.ghostery.com/apps/Media6_Degrees
+NIL  http://www.functionaltrends.com/         FunctionalTrends     http://www.ghostery.com/apps/FunctionalTrends
+200  http://www.nuconomy.com/                 Nuconomy             http://www.ghostery.com/apps/Nuconomy
+10   http://www.bluelithium.com/              Bluelithium          http://www.ghostery.com/apps/Bluelithium
+800  http://www.glammedia.com/                Glam Media           http://www.ghostery.com/apps/Glam_Media
+3,000 http://www.trafic.ro/                    Trafic               http://www.ghostery.com/apps/Trafic
+500  http://www.clicktracks.com/              Lyris ClickTracks    http://www.ghostery.com/apps/Lyris_ClickTracks
+400  http://www.enquisite.com/                Enquisite            http://www.ghostery.com/apps/Enquisite
+NIL  http://www.extremetracking.com/          eXTReMe Tracker      http://www.ghostery.com/apps/eXTReMe_Tracker
+300  http://www.microsoft-analytics.com/      Microsoft Analytics  http://www.ghostery.com/apps/Microsoft_Analytics
+NIL  http://www.sweepery.com/                 Sweepery             http://www.ghostery.com/apps/Sweepery
+90   http://tellafriend.socialtwist.com/      Tell-a-Friend        http://www.ghostery.com/apps/Tell-a-Friend
+NIL  NIL                                      NIL                  http://www.ghostery.com/apps/PercentMobile
+20   http://www.netmanager.net/en/            NetMonitor           http://www.ghostery.com/apps/NetMonitor
+100  http://www.marketo.com/                  Marketo              http://www.ghostery.com/apps/Marketo
+100  http://www.demandbase.com/               Demandbase           http://www.ghostery.com/apps/Demandbase
+NIL  http://www.fetchback.com/                Fetchback            http://www.ghostery.com/apps/FetchBack
+70   http://www.silverpop.com/                Silverpop            http://www.ghostery.com/apps/SilverPop
+1,000 http://www.coremetrics.com/              Coremetrics          http://www.ghostery.com/apps/CoreMetrics
+NIL  http://www.magnify360.com/               Magnify360           http://www.ghostery.com/apps/Magnify360
+10   http://www.fathomseo.com/                Fathom SEO           http://www.ghostery.com/apps/Fathom_SEO
+400  http://www.eloqua.com/                   Eloqua               http://www.ghostery.com/apps/Eloqua
+NIL  http://www.acerno.com/                   Acerno               http://www.ghostery.com/apps/Acerno
+300  http://www.mindset-media.com/            Mindset Media        http://www.ghostery.com/apps/Mindset_Media
+100  https://www.godaddy.com/gdshop/hosting/stats_landing.asp GoDaddy Site Analytics http://www.ghostery.com/apps/GoDaddy_Site_Analytics
+300  http://www.appnexus.com/                 AdNexus              http://www.ghostery.com/apps/AdNexus
+NIL  http://www.almondnet.com/                AlmondNet            http://www.ghostery.com/apps/AlmondNet
+1,000 http://www.collective.com/               Collective Media     http://www.ghostery.com/apps/Collective_Media
+100  http://www.exelate.com/                  eXelate              http://www.ghostery.com/apps/eXelate
+70   https://publishers.foxaudiencenetwork.com/ Fox Audience Network http://www.ghostery.com/apps/Fox_Audience_Network
+600  http://www.interclick.com/               interCLICK           http://www.ghostery.com/apps/interCLICK
+40   http://www.nextaction.net/               NextAction           http://www.ghostery.com/apps/NextAction
+500  http://www.trafficmarketplace.com/       Traffic Marketplace  http://www.ghostery.com/apps/Traffic_Marketplace
+500  http://www.turn.com/corp/                Turn                 http://www.ghostery.com/apps/Turn
+600  http://www.247realmedia.com/             Real Media           http://www.ghostery.com/apps/Real_Media
+500  http://www.etracker.com/en/              etracker             http://www.ghostery.com/apps/etracker
+NIL  http://www.voicefive.com/                Comscore VoiceFive   http://www.ghostery.com/apps/Comscore_VoiceFive
+60   http://www.bizo.com/                     Bizo                 http://www.ghostery.com/apps/Bizo
+100  http://www.snoobi.com/                   Snoobi               http://www.ghostery.com/apps/Snoobi
+100  http://rocketfuelinc.com/                Rocket Fuel          http://www.ghostery.com/apps/Rocket_Fuel
+600  http://www.shinystat.com/                ShinyStat            http://www.ghostery.com/apps/ShinyStat
+200  http://www.visistat.com/                 VisiStat             http://www.ghostery.com/apps/VisiStat
+NIL  http://www.nedstat.com/                  NedStat              http://www.ghostery.com/apps/NedStat
+300  http://www.tynt.com/                     Tynt Tracer          http://www.ghostery.com/apps/Tynt_Tracer
+NIL  http://www.i-stats.com/                  i-stats              http://www.ghostery.com/apps/i-stats
