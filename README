@@ -2,44 +2,44 @@ Curiosity killing cats ... scrape info from http://ghostery.com/apps/* via drakm
 
 Makes a report like so: 
 
-NIL  http://www.audiencescience.com/          Revenue Science
-NIL  http://haveamint.com/                    Mint
-600  http://advertiser.cubics.com/            Cubics
-100  http://www.crowdscience.com/             Crowd Science
-NIL  http://www.othersonline.com/             Others Online
-300  http://digg.com/apple/Digg_Widget        Digg Widget
-NIL  http://www.pointroll.com/                PointRoll
-10   http://www.loomia.com/                   Loomia
-NIL  http://intensedebate.com/                Intense Debate
-400  http://www.eloqua.com/                   Eloqua
-NIL  http://www.extremetracking.com/          eXTReMe Tracker
-500  http://twittercounter.com/               TwitterCounter
-NIL  http://disqus.com/                       Disqus
-NIL  http://www.typepad.com/features/statistics.html Typepad Stats
-500  http://www.criteo.com/                   Criteo
-NIL  http://www.zedo.com/                     Zedo
-NIL  http://uservoice.com/                    UserVoice
-NIL  http://www.lynchpin.com/                 Lynchpin Analytics
-NIL  http://www.rightmedia.com/               RightMedia
-NIL  http://www.kontera.com/                  Kontera ContentLink
-NIL  http://www.addtoany.com/                 AddtoAny
-60   http://www.trovus.co.uk/                 Trovus Revelations
-NIL  http://www.blogads.com/                  Blogads
-NIL  http://www.coremetrics.com/              Coremetrics
-NIL  http://www.snap.com/                     Snap
-NIL  http://www.hitslink.com/                 HitsLink
-NIL  http://www.salesforce.com/               Salesforce
-10   http://www.bluelithium.com/              Bluelithium
-NIL  http://www.tacoda.com/                   Tacoda
-200  http://www.orangesoda.com/               OrangeSoda
-NIL  http://www.adknowledge.com/              Adknowledge
-NIL  http://code.google.com/apis/ajaxsearch/  Google AJAX Search API
-100  http://triggit.com/                      TriggIt
-NIL  http://www.onestat.com/                  OneStat
-NIL  http://bzzster.com/                      Bzzster
-500  http://www.turn.com/corp/                Turn
-300  http://www.appnexus.com/                 AdNexus
-NIL  http://clicksor.com/                     Clicksor
-NIL  http://feedjit.com/                      Feedjit
-NIL  http://www.google.com/friendconnect/     Google FriendConnect
-50   http://gumgum.com/                       gumgum
+NIL  http://www.audiencescience.com/          Revenue Science      http://www.ghostery.com/apps/revenue_science
+NIL  http://haveamint.com/                    Mint                 http://www.ghostery.com/apps/mint
+600  http://advertiser.cubics.com/            Cubics               http://www.ghostery.com/apps/cubics
+100  http://www.crowdscience.com/             Crowd Science        http://www.ghostery.com/apps/crowd_science
+NIL  http://www.othersonline.com/             Others Online        http://www.ghostery.com/apps/others_online
+300  http://digg.com/apple/Digg_Widget        Digg Widget          http://www.ghostery.com/apps/digg_widget
+NIL  http://www.pointroll.com/                PointRoll            http://www.ghostery.com/apps/pointroll
+10   http://www.loomia.com/                   Loomia               http://www.ghostery.com/apps/loomia
+NIL  http://intensedebate.com/                Intense Debate       http://www.ghostery.com/apps/intense_debate
+400  http://www.eloqua.com/                   Eloqua               http://www.ghostery.com/apps/eloqua
+NIL  http://www.extremetracking.com/          eXTReMe Tracker      http://www.ghostery.com/apps/extreme_tracker
+500  http://twittercounter.com/               TwitterCounter       http://www.ghostery.com/apps/twittercounter
+NIL  http://disqus.com/                       Disqus               http://www.ghostery.com/apps/disqus
+NIL  http://www.typepad.com/features/statistics.html Typepad Stats        http://www.ghostery.com/apps/typepad_stats
+500  http://www.criteo.com/                   Criteo               http://www.ghostery.com/apps/criteo
+NIL  http://www.zedo.com/                     Zedo                 http://www.ghostery.com/apps/zedo
+NIL  http://uservoice.com/                    UserVoice            http://www.ghostery.com/apps/uservoice
+NIL  http://www.lynchpin.com/                 Lynchpin Analytics   http://www.ghostery.com/apps/lynchpin_analytics
+NIL  http://www.rightmedia.com/               RightMedia           http://www.ghostery.com/apps/rightmedia
+NIL  http://www.kontera.com/                  Kontera ContentLink  http://www.ghostery.com/apps/kontera_contentlink
+NIL  http://www.addtoany.com/                 AddtoAny             http://www.ghostery.com/apps/addtoany
+60   http://www.trovus.co.uk/                 Trovus Revelations   http://www.ghostery.com/apps/trovus_revelations
+NIL  http://www.blogads.com/                  Blogads              http://www.ghostery.com/apps/blogads
+NIL  http://www.coremetrics.com/              Coremetrics          http://www.ghostery.com/apps/coremetrics
+NIL  http://www.snap.com/                     Snap                 http://www.ghostery.com/apps/snap
+NIL  http://www.hitslink.com/                 HitsLink             http://www.ghostery.com/apps/hitslink
+NIL  http://www.salesforce.com/               Salesforce           http://www.ghostery.com/apps/salesforce
+10   http://www.bluelithium.com/              Bluelithium          http://www.ghostery.com/apps/bluelithium
+NIL  http://www.tacoda.com/                   Tacoda               http://www.ghostery.com/apps/tacoda
+200  http://www.orangesoda.com/               OrangeSoda           http://www.ghostery.com/apps/orangesoda
+NIL  http://www.adknowledge.com/              Adknowledge          http://www.ghostery.com/apps/adknowledge
+NIL  http://code.google.com/apis/ajaxsearch/  Google AJAX Search API http://www.ghostery.com/apps/google_ajax_search_api
+100  http://triggit.com/                      TriggIt              http://www.ghostery.com/apps/triggit
+NIL  http://www.onestat.com/                  OneStat              http://www.ghostery.com/apps/onestat
+NIL  http://bzzster.com/                      Bzzster              http://www.ghostery.com/apps/bzzster
+500  http://www.turn.com/corp/                Turn                 http://www.ghostery.com/apps/turn
+300  http://www.appnexus.com/                 AdNexus              http://www.ghostery.com/apps/adnexus
+NIL  http://clicksor.com/                     Clicksor             http://www.ghostery.com/apps/clicksor
+NIL  http://feedjit.com/                      Feedjit              http://www.ghostery.com/apps/feedjit
+NIL  http://www.google.com/friendconnect/     Google FriendConnect http://www.ghostery.com/apps/google_friendconnect
+50   http://gumgum.com/                       gumgum               http://www.ghostery.com/apps/gumgum

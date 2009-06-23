@@ -1,4 +1,4 @@
-(package "COMMON-LISP-USER")
+(in-package "COMMON-LISP-USER")
 
 ;;; in the tradition of forth
 
@@ -35,4 +35,4 @@
     do
  (cl-ppcre:do-register-groups (link)
      ("href=\"(http://www.ghostery.com/apps/[^\"]*)\"" p)
-   (format t "~&~{~4A ~40A ~A~}"  (scrape-tracker-page link)))))
+   (format t "~&~{~4A ~40A ~20A~} ~A"  (scrape-tracker-page link) link))))
