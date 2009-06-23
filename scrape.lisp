@@ -16,6 +16,7 @@
         nil)))
 
 
+
 ;;; List gleaned from
 ;;; http://www.google.com/codesearch/p?&cd=1&ct=rc#iAVVwEcJc_8/trunk/firefox/ghostery-statusbar/ghostery/chrome/content/ghostery-db.js
 
@@ -217,10 +218,12 @@
   "Pluck junk out of pages like http://www.ghostery.com/apps/chartbeat."
   (get-page url)
   (format t "~&~4A ~40A ~20A ~A"
-          (pluck "found on.*<b>(\\d+)</b>")
+          (let ((n (pluck "found on.*<b>([\\d,]+)</b>")))
+            (when n
+              (parse-integer (delete #\, n))))
           (pluck "Website: <a rel=\"nofollow\" href=\"([^\"]*)\"")
           (pluck "<h1>([^<]*)</h1>")
-          link))
+          url))
 
 (defun scrape-trackers-via-google ()
   "Use google to find apps pages on ghostery.com, then scrape em."
@@ -233,8 +236,9 @@
      ("href=\"(http://www.ghostery.com/apps/[^\"]*)\"" p)
    (scrape-tracker-page link))))
 
-(defun scrap-trackers-via-bugs ()
+(defun scrape-trackers-via-bugs ()
   (loop for bug in *bugs*
         as url = (concatenate 'string "http://www.ghostery.com/apps/"
-                                       (substitute #\_ #\space bug))
+                              (nstring-downcase
+                               (substitute #\_ #\space bug)))
         do (scrape-tracker-page url)))
