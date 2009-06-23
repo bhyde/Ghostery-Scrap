@@ -1,0 +1,45 @@
+Curiosity killing cats ... scrap info from http://ghostery.com/apps/* via drakma, cl-ppcre with the help of Google.
+
+Makes a report like so: 
+
+NIL  http://www.audiencescience.com/          Revenue Science
+NIL  http://haveamint.com/                    Mint
+600  http://advertiser.cubics.com/            Cubics
+100  http://www.crowdscience.com/             Crowd Science
+NIL  http://www.othersonline.com/             Others Online
+300  http://digg.com/apple/Digg_Widget        Digg Widget
+NIL  http://www.pointroll.com/                PointRoll
+10   http://www.loomia.com/                   Loomia
+NIL  http://intensedebate.com/                Intense Debate
+400  http://www.eloqua.com/                   Eloqua
+NIL  http://www.extremetracking.com/          eXTReMe Tracker
+500  http://twittercounter.com/               TwitterCounter
+NIL  http://disqus.com/                       Disqus
+NIL  http://www.typepad.com/features/statistics.html Typepad Stats
+500  http://www.criteo.com/                   Criteo
+NIL  http://www.zedo.com/                     Zedo
+NIL  http://uservoice.com/                    UserVoice
+NIL  http://www.lynchpin.com/                 Lynchpin Analytics
+NIL  http://www.rightmedia.com/               RightMedia
+NIL  http://www.kontera.com/                  Kontera ContentLink
+NIL  http://www.addtoany.com/                 AddtoAny
+60   http://www.trovus.co.uk/                 Trovus Revelations
+NIL  http://www.blogads.com/                  Blogads
+NIL  http://www.coremetrics.com/              Coremetrics
+NIL  http://www.snap.com/                     Snap
+NIL  http://www.hitslink.com/                 HitsLink
+NIL  http://www.salesforce.com/               Salesforce
+10   http://www.bluelithium.com/              Bluelithium
+NIL  http://www.tacoda.com/                   Tacoda
+200  http://www.orangesoda.com/               OrangeSoda
+NIL  http://www.adknowledge.com/              Adknowledge
+NIL  http://code.google.com/apis/ajaxsearch/  Google AJAX Search API
+100  http://triggit.com/                      TriggIt
+NIL  http://www.onestat.com/                  OneStat
+NIL  http://bzzster.com/                      Bzzster
+500  http://www.turn.com/corp/                Turn
+300  http://www.appnexus.com/                 AdNexus
+NIL  http://clicksor.com/                     Clicksor
+NIL  http://feedjit.com/                      Feedjit
+NIL  http://www.google.com/friendconnect/     Google FriendConnect
+50   http://gumgum.com/                       gumgum
