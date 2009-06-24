@@ -1,0 +1,190 @@
+800000 Google Analytics
+300000 Google Adsense
+200000 Doubleclick
+ 70000 Statcounter
+ 60000 AddThis
+ 40000 Google Custom Search Engine
+ 40000 Quantcast
+ 30000 OpenAds
+ 20000 Omniture
+ 20000 Wordpress Stats
+ 20000 SiteMeter
+ 10000 Revenue Science
+ 10000 AdBrite
+ 10000 Casale Media
+ 10000 Twitter Badge
+ 10000 MyBlogLog
+ 10000 DiggThis
+ 10000 Microsoft Atlas
+ 10000 ShareThis
+  9000 NetRatings SiteCensus
+  9000 Google Widgets
+  9000 ValueClick Mediaplex
+  8000 Alexa Traffic Rank
+  8000 Google FriendConnect
+  8000 AddtoAny
+  7000 Kontera ContentLink
+  7000 FeedBurner
+  7000 Woopra
+  7000 Crazy Egg
+  6000 Feedjit
+  6000 Chitika
+  6000 CPX Interactive
+  6000 RightMedia
+  6000 PointRoll
+  6000 WebTrends
+  5000 Technorati Widget
+  5000 Dynamic Logic
+  5000 LivePerson
+  5000 Clicky
+  4000 Vibrant Ads
+  4000 SpecificClick
+  4000 Snap
+  4000 Zedo
+  4000 Piwik Analytics
+  4000 Facebook Connect
+  4000 Tacoda
+  4000 Mint
+  3000 HitTail
+  3000 Tribal Fusion
+  3000 Clicksor
+  3000 Disqus
+  3000 Adify
+  3000 Burst Media
+  3000 Trafic
+  3000 InfoLinks
+  2000 Rubicon
+  2000 HitsLink
+  2000 Reinvigorate
+  2000 InsightExpress
+  2000 JS-Kit
+  2000 ClickTale
+  2000 AWStats
+  1000 BlogCatalog
+  1000 LeadLander
+  1000 UserVoice
+  1000 Collective Media
+  1000 Coremetrics
+  1000 Blogads
+  1000 Lijit
+  1000 MSN Ads
+  1000 Salesforce
+  1000 Intense Debate
+  1000 Amazon Associates
+  1000 Outbrain
+  1000 WidgetBucks
+  1000 IndexTools
+   900 Quigo AdSonar
+   800 Glam Media
+   800 GetSatisfaction
+   800 Kampyle
+   800 Sphere
+   700 HubSpot
+   700 W3Counter
+   600 Lotame
+   600 ChartBeat
+   600 Real Media
+   600 BlogHer Ads
+   600 Yahoo Analytics
+   600 ShinyStat
+   600 Yahoo Buzz
+   600 Cubics
+   600 interCLICK
+   500 TwitterCounter
+   500 AdultAdWorld
+   500 Traffic Marketplace
+   500 Lyris ClickTracks
+   500 etracker
+   500 FriendFeed
+   500 BlogCounter
+   500 Criteo
+   500 Six Apart Advertising
+   500 Turn
+   400 Yahoo Overture
+   400 Enquisite
+   400 Eloqua
+   400 Omniture TouchClarity
+   400 Media6 Degrees
+   300 Microsoft Analytics
+   300 SexInYourCity
+   300 Tynt Tracer
+   300 Spot200
+   300 PostRank
+   300 AdNexus
+   300 YieldBuild
+   300 Digg Widget
+   300 Seesmic
+   300 Mindset Media
+   200 Nuconomy
+   200 OrangeSoda
+   200 Lookery
+   200 Federated Media
+   200 VisiStat
+   100 Baynote Observer
+   100 Kanoodle
+   100 ConversionRuler
+   100 Collarity
+   100 GoDaddy Site Analytics
+   100 DoublePimp
+   100 ScribeFire QuickAds
+   100 DoubleClick Spotlight
+   100 Snoobi
+   100 Gunggo
+   100 TriggIt
+   100 Marketo
+   100 eXelate
+   100 Rocket Fuel
+   100 Crowd Science
+   100 Zango
+   100 HubSpot WebsiteGrader
+   100 Advertising.com
+   100 Demandbase
+   100 AdaptiveBlue SmartLinks
+    90 Tell-a-Friend
+    90 Skribit
+    90 BTBuckets
+    80 Bluemetrix
+    70 Statisfy
+    70 Silverpop
+    70 Fox Audience Network
+    60 Bizo
+    60 Trovus Revelations
+    50 gumgum
+    40 NextAction
+    20 NetMonitor
+    10 Bluelithium
+    10 Dotomi
+    10 DuckDuckGo
+    10 Facebook Beacon
+    10 Loomia
+    10 Fathom SEO
+NIL BlogRollr
+NIL Magnify360
+NIL Bzzster
+NIL NedStat
+NIL Sweepery
+NIL Tumblr
+NIL Lynchpin Analytics
+NIL PercentMobile
+NIL BlueKai
+NIL i-stats
+NIL Summit Media
+NIL Nooked
+NIL Typepad Stats
+NIL ClustrMaps
+NIL OneStat
+NIL Thummit
+NIL eXTReMe Tracker
+NIL Fetchback
+NIL Others Online
+NIL Google AJAX Search API
+NIL Acerno
+NIL Adknowledge
+NIL XiTi
+NIL FunctionalTrends
+NIL Comscore VoiceFive
+NIL NebuAd
+NIL LeadBack
+NIL Nugg.Ad
+NIL AlmondNet
+NIL Engagd
